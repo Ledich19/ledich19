@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 ### Contacts
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="css" aling="left" width="26px;" />  _@Aleksandr_Ch19_
 
-<img src="https://www.codewars.com/users/rsschool_c3082938acd6bbbb/badges/large" alt="css" aling="left" width="26px;" />
+<img src="https://www.codewars.com/users/rsschool_c3082938acd6bbbb/badges/large" alt="css" aling="left" " />
 
 
