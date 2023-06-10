@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="css" aling="left" width="26px;" />
 
 ### Contacts
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="css" aling="left" width="26px;" />: _@Aleksandr_Ch19_
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="css" aling="left" width="26px;" />  _@Aleksandr_Ch19_
 
 
