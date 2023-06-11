@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-### Certificates
+### Curses
 
 Open full stack
 
