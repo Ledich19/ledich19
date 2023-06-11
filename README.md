@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Contacts
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="css" aling="left" width="26px;" />](https://t.me/Aleksandr_Ch19)[<img src="https://camo.githubusercontent.com/9e16a27e6c95dcb2897cf08caca111e0f4e8a8eb456832dde0d5061dbe45add6/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" alt="css" aling="left" width="26px;" />](https://www.linkedin.com/in/oleksander-chumachenko-125b39219/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="css" aling="left" width="26px;" />](https://t.me/Aleksandr_Ch19) [<img src="https://camo.githubusercontent.com/9e16a27e6c95dcb2897cf08caca111e0f4e8a8eb456832dde0d5061dbe45add6/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" alt="css" aling="left" width="26px;" />](https://www.linkedin.com/in/oleksander-chumachenko-125b39219/)
 
 
 
