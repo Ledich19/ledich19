@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 -->
 
 
+<img src="https://www.codewars.com/users/rsschool_c3082938acd6bbbb/badges/large" alt="css" aling="left"/>
+
+### Contacts
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="css" aling="left" width="26px;" />](https://t.me/Aleksandr_Ch19) preferred
+[<img src="https://camo.githubusercontent.com/9e16a27e6c95dcb2897cf08caca111e0f4e8a8eb456832dde0d5061dbe45add6/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" alt="css" aling="left" width="26px;" />](https://www.linkedin.com/in/oleksander-chumachenko-125b39219/)
+
+
+
+### Certificates
+
+Open full stack [Certificate](https://link-url-here.org)
+RS School JS: [Certificate](https://app.rs.school/certificate/8jzf4icj)
+RS School REact: [Certificate]
+
 ### Skills and tools
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="css" aling="left" width="26px;" /><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" aling="left" width="26px;" />
@@ -35,9 +49,16 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="css" aling="left" width="26px;" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="css" aling="left" width="26px;" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" alt="css" aling="left" width="26px;" />
+<img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" alt="css" aling="left" width="26px;" />
 
-### Contacts
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="css" aling="left" width="26px;" /> _@Aleksandr_Ch19_
+
+
 
 
 
