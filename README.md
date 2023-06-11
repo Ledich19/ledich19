@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 
 ### Certificates
 
-Open full stack [Certificate](https://link-url-here.org)
+Open full stack
+
 RS School JS: [Certificate](https://app.rs.school/certificate/8jzf4icj)
-RS School REact: [Certificate]
+
+RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r)
 
 ### Skills and tools
 
