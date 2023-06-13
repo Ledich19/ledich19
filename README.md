@@ -39,7 +39,7 @@ RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="css" aling="left" width="26px;" />
-<img src="ttps://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="css" aling="left" width="26px;" />
@@ -60,6 +60,7 @@ RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="css" aling="left" width="26px;" />
+<img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="css" aling="left" width="26px;" />
 
 <img src="https://wakatime.com/share/@ledich19/ea0612c1-6af5-4a19-8cbd-575148dcec40.svg" alt="css" aling="left" height="400px;" />
 
