@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://www.codewars.com/users/rsschool_c3082938acd6bbbb/badges/large" alt="css" aling="left" />
+<img src="https://www.codewars.com/users/rsschool_c3082938acd6bbbb/badges/micro" alt="css" aling="left" />
+[![wakatime](https://wakatime.com/badge/user/b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f.svg)](https://wakatime.com/@b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f)
 
 <!--
 **Ledich19/ledich19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,4 +65,4 @@ RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img 
 
 <img src="https://wakatime.com/share/@ledich19/ea0612c1-6af5-4a19-8cbd-575148dcec40.svg" alt="css" aling="left" height="400px;" />
 
-[![wakatime](https://wakatime.com/badge/user/b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f.svg)](https://wakatime.com/@b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f)
+
