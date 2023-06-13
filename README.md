@@ -57,5 +57,5 @@ RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img 
 <img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" alt="css" aling="left" width="26px;" />
 <img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" alt="css" aling="left" width="26px;" />
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledich19&layout=compact)
 
