@@ -1,6 +1,8 @@
 ### Hi there 👋
 <img src="https://www.codewars.com/users/rsschool_c3082938acd6bbbb/badges/large" alt="css" aling="left" />
 
+
+[![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz)
 <!--
 **Ledich19/ledich19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
