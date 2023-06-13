@@ -59,3 +59,6 @@ RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledich19&layout=compact)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ledich19)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f.svg)](https://wakatime.com/@b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f)
