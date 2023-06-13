@@ -57,6 +57,6 @@ RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img 
 <img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" alt="css" aling="left" width="26px;" />
 <img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" alt="css" aling="left" width="26px;" />
 
-<img src="https://wakatime.com/share/@ledich19/fa15cb0f-d717-45ca-a8a9-9534cc85be59.svg" alt="css" aling="left" height="400px;" />
+<img src="https://wakatime.com/share/@ledich19/ea0612c1-6af5-4a19-8cbd-575148dcec40.svg" alt="css" aling="left" height="400px;" />
 
 [![wakatime](https://wakatime.com/badge/user/b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f.svg)](https://wakatime.com/@b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f)
