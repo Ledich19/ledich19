@@ -38,8 +38,8 @@ RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="css" aling="left" width="26px;" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="css" aling="left" width="26px;" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="css" aling="left" width="26px;" />
+<img src="ttps://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="css" aling="left" width="26px;" />
@@ -50,13 +50,16 @@ RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="css" aling="left" width="26px;" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="css" aling="left" width="26px;" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="css" aling="left" width="26px;" />
 <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="css" aling="left" width="26px;" />
 <img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" alt="css" aling="left" width="26px;" />
 <img src="https://github.com/devicons/devicon/raw/master/icons/canva/canva-original.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="css" aling="left" width="26px;" />
+<img src="ttps://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="css" aling="left" width="26px;" />
 
 <img src="https://wakatime.com/share/@ledich19/ea0612c1-6af5-4a19-8cbd-575148dcec40.svg" alt="css" aling="left" height="400px;" />
 
