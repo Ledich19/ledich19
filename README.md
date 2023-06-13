@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ### Contacts
 [![Telegram Badge](https://img.shields.io/badge/-Aleksandr_Ch19-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aleksandr_Ch19)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](ledich19@gmail.com)
-
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](ledich19@gmail.com)
 
 <!-- [![Linkedin Badge]([https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png)](https://www.linkedin.com/in/oleksander-chumachenko-125b39219/) -->
