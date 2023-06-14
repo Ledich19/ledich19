@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 Open full stack(University of Helsinki) <img src="https://github.com/Ledich19/ledich19/assets/67699125/60fc3a7d-c85e-4648-8c2d-1583d73e839f" alt="css" aling="left" width="26px;" /> <img src="https://github.com/Ledich19/ledich19/assets/67699125/1d3c452a-ea42-4ed5-8b6d-4cd453d595b6)" alt="css" aling="left" width="26px;" />
 
 RS School JS: [Certificate](https://app.rs.school/certificate/8jzf4icj) <img src="https://github.com/Ledich19/ledich19/assets/67699125/d5f6be75-dad1-4cd5-b683-be057e27ab02" alt="css" aling="left" width="26px;" />
+
 RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img src="https://github.com/Ledich19/ledich19/assets/67699125/ef2a3a76-15fe-4179-9f98-00f6298ecfb7" alt="css" aling="left" width="26px;" />
 
 
