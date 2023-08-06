@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f.svg)](https://wakatime.com/@b41bd6fa-69a3-4a33-b0d6-8a60dc86c55f)
-<img src="https://www.codewars.com/users/rsschool_c3082938acd6bbbb/badges/micro" alt="css" aling="left" />
 ![Static Badge](https://img.shields.io/badge/code-stats-blue?link=https%3A%2F%2Fcodestats.net%2Fusers%2FOleksandr)
+<img src="https://www.codewars.com/users/rsschool_c3082938acd6bbbb/badges/micro" alt="css" aling="left" />
 <!--
 **Ledich19/ledich19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
