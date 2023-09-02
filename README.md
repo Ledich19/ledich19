@@ -30,6 +30,8 @@ RS School JS: [Certificate](https://app.rs.school/certificate/8jzf4icj) <img src
 
 RS School REact: [Certificate](https://app.rs.school/certificate/p4rw0u3r) <img src="https://github.com/Ledich19/ledich19/assets/67699125/ef2a3a76-15fe-4179-9f98-00f6298ecfb7" alt="css" aling="left" width="26px;" />
 
+RS School Node JS: [Certificate](https://app.rs.school/certificate/wczwkx5d) <img src="https://github.com/Ledich19/ledich19/assets/67699125/70c7208a-8354-40e7-b491-d2b0e7ee1d1b" alt="css" aling="left" width="26px;" />
+
 
 ### Skills and tools
 
