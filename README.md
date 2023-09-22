@@ -47,15 +47,13 @@ RS School Node JS: [Certificate](https://app.rs.school/certificate/wczwkx5d) <im
 <img src="https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="css" aling="left" width="26px;" />
 
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nest.svg" alt="css" aling="left" width="26px;" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nest-js.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="css" aling="left" width="26px;" />
 <img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="css" aling="left" width="26px;" />
-
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="css" aling="left" width="26px;" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="css" aling="left" width="26px;" />
