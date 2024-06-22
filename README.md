@@ -53,4 +53,18 @@ RS School Node JS: [Certificate](https://app.rs.school/certificate/wczwkx5d) <im
 
 <img src="https://wakatime.com/share/@ledich19/ea0612c1-6af5-4a19-8cbd-575148dcec40.svg" alt="css" aling="left" height="400px;" />
 
+<details>
+  <summary>задеплоиные работы</summary>
+  ### THREE js
+  - https://ledich19.github.io/THREE-JS/dots-Beyonce
 
+  - https://ledich19.github.io/THREE-JS/lines
+
+  - https://ledich19.github.io/THREE-JS/shaders-grid
+
+  - https://ledich19.github.io/THREE-JS/smiles
+
+  - https://ledich19.github.io/THREE-JS/getting-started-with-threejs-main
+
+  - https://ledich19.github.io/THREE-JS/threejs-earth-main
+</details>
