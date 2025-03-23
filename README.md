@@ -51,10 +51,7 @@ RS School Node JS: [Certificate](https://app.rs.school/certificate/wczwkx5d) <im
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="css" aling="left" width="26px;" />
 
 
-<img src="https://wakatime.com/share/@ledich19/ea0612c1-6af5-4a19-8cbd-575148dcec40.svg" alt="css" aling="left" height="400px;" />
-
-.. image:: https://wakatime.com/share/@ledich19/dbc88e8a-702b-4102-a3c2-7e1795c42637.png
-    :target: https://wakatime.com/
+<img src="https://wakatime.com/share/@ledich19/dbc88e8a-702b-4102-a3c2-7e1795c42637.png" alt="css" aling="left" height="400px;" />
 
 <details>
   <summary>задеплоиные работы</summary>
