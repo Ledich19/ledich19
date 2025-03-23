@@ -53,6 +53,8 @@ RS School Node JS: [Certificate](https://app.rs.school/certificate/wczwkx5d) <im
 
 <img src="https://wakatime.com/share/@ledich19/ea0612c1-6af5-4a19-8cbd-575148dcec40.svg" alt="css" aling="left" height="400px;" />
 
+<figure><embed src="https://wakatime.com/share/@ledich19/44654e46-1db0-4dda-b6bd-d07d3d1b06ed.svg"></embed></figure>
+
 <details>
   <summary>задеплоиные работы</summary>
   ### THREE js
